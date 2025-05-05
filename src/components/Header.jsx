@@ -32,7 +32,7 @@ const Header = () => {
                 <ul className={`${styles.navLink} ${menuOpen ? styles.showMenu : ''}`}>
                     <li><Link to="/" className={styles.link}><i className="fa-solid fa-house"></i> Home</Link></li>
                     <li><Link to="/servicios" className={styles.link}><i className="fa-solid fa-shield-dog"></i> Servicios</Link></li>
-                    <li><a href="#Tips" className={styles.link}><i className="fa-solid fa-circle-info"></i> Tips</a></li>
+                    <li><Link to="/tips" className={styles.link}><i className="fa-solid fa-circle-info"></i> Tips</Link></li>
                     <button className={styles.iniciarSesion}><i class="fa-solid fa-cart-shopping"></i> Carrito</button>
                     <button className={styles.iniciarSesion}>Iniciar Sesión</button>
                 </ul>

@@ -11,7 +11,7 @@ const Footer = () => {
                     <div>
                     <img src="img/Logo.png" alt="Logo-pie-de-pagina" />
                     </div>
-                    <p>CarnetVet</p>
+                    <p>Veterinaria</p>
                 </Link>
                 </article>
                 <article className={styles.boxNosotros}>
