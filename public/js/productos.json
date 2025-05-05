@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "nombre": "Tea327 Collar Antipulgas Perros Mediano",
+        "descripcion": "Collar Tea 327 para perro mediano y chico (28,0 gramos) previene de pulgas, garrapatas y todo tipo de parásitos externos...",
+        "precio": 14165.00,
+        "imagen": "https://leocan.com.ar/wp-content/uploads/2025/02/1566.png",
+        "stock": 20,
+        "categoria": "Collares antipulgas para perros"
+    },
+    {
+        "id": 2,
+        "nombre": "Tea327 Collar Antipulgas Perros Cachorros KONIG",
+        "descripcion": "Collar Tea 327 para perro cachorro (28,0 gramos) previene de pulgas, garrapatas y todo tipo de parásitos externos...",
+        "precio": 13729.00,
+        "imagen": "https://leocan.com.ar/wp-content/uploads/2025/02/tea327-collar-cachorro.webp",
+        "stock": 18,
+        "categoria": "Collares antipulgas para perros"
+    },
+    {
+        "id": 3,
+        "nombre": "Tea327 Collar Antipulgas Perros Extra Grandes KONIG",
+        "descripcion": "Collar Tea 327 para perros extra grandes (45,0 gramos) previene de pulgas, garrapatas y todo tipo de parásitos externos...",
+        "precio": 15142.00,
+        "imagen": "https://leocan.com.ar/wp-content/uploads/2025/03/tea2.png",
+        "stock": 15,
+        "categoria": "Collares antipulgas para perros"
+    },
+    {
+        "id": 4,
+        "nombre": "Frontline Plus Perro h/10kg – BOEHRINGER",
+        "descripcion": "FRONTLINE Plus® Antiparasitario externo contra huevos, larvas y adultos de pulgas; garrapatas y piojos masticadores.",
+        "precio": 11054.00,
+        "imagen": "https://leocan.com.ar/wp-content/uploads/2025/02/FRONTLINE-PLUS-PERRO-HASTA-10KG.png",
+        "stock": 25,
+        "categoria": "Pipetas antipulgas para perros"
+    },
+    {
+        "id": 5,
+        "nombre": "Frontline Plus Perro 10 a 20kg – BOEHRINGER",
+        "descripcion": "FRONTLINE Plus® Antiparasitario externo contra huevos, larvas y adultos de pulgas; garrapatas y piojos masticadores.",
+        "precio": 11933.00,
+        "imagen": "https://leocan.com.ar/wp-content/uploads/2025/02/FRONTLINE-PLUS-PERRO-10-A-20KG.png",
+        "stock": 22,
+        "categoria": "Pipetas antipulgas para perros"
+    },
+    {
+        "id": 6,
+        "nombre": "Frontline Plus Perro 20 a 40kg – BOEHRINGER",
+        "descripcion": "FRONTLINE Plus® Antiparasitario externo contra huevos, larvas y adultos de pulgas; garrapatas y piojos masticadores.",
+        "precio": 16117.00,
+        "imagen": "https://leocan.com.ar/wp-content/uploads/2025/02/FRONTLINE-PLUS-PERRO-20-A-40KG.jpg",
+        "stock": 20,
+        "categoria": "Pipetas antipulgas para perros"
+    },
+    {
+        "id": 7,
+        "nombre": "Advantage Antipulgas Gatos hasta 4kg – ELANCO",
+        "descripcion": "ADVANTAGE® G de BAYER. Pipeta antipulgas para gatos de hasta 4kg.",
+        "precio": 10778.00,
+        "imagen": "https://leocan.com.ar/wp-content/uploads/2025/02/ADVANTAGE-4KG.webp",
+        "stock": 30,
+        "categoria": "Pipetas antipulgas para gatos"
+    },
+    {
+        "id": 8,
+        "nombre": "Advantage Antipulgas Gatos 4 a 8kg – ELANCO",
+        "descripcion": "ADVANTAGE® G de BAYER. Pipeta antipulgas para gatos de 4 a 8kg.",
+        "precio": 12007.00,
+        "imagen": "https://leocan.com.ar/wp-content/uploads/2025/02/advantage-emtre4y8kg-editado0338.jpg",
+        "stock": 28,
+        "categoria": "Pipetas antipulgas para gatos"
+    }
+]
