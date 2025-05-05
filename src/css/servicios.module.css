@@ -17,6 +17,7 @@
     flex-direction: column;
     margin: 20px 0px;
     background-color: var(--fondo);
+    margin-top: 85px;
 }
 
 .servicios .serviciosTitulo{
